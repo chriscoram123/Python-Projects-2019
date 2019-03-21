@@ -11,4 +11,4 @@ label = [1, 2, 3, 4]
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(feature,label)
 
-print(clf.predict([[11, score[0]])
+print(clf.predict([[11, score[0]]]))
