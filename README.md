@@ -1,2 +1,4 @@
 # Pyhton-Projects-2019
-Pyhton projects / 2019: cv2 algorithms, arrays, data algorithms, etc.
+All Pyhton side projects / 2019: The following include cv2 snippets, quick games, algorithms processing data, etc.
+
+# hi
