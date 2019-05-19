@@ -13,3 +13,5 @@ Scikit-Learn/
 Sorting/
 cv2/
 and matplotlib.
+
+AUTHOR
