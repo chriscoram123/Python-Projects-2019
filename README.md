@@ -12,4 +12,4 @@ Tensor Flow/
 Scikit-Learn/
 Sorting/
 cv2/
-matplotlib/
+and matplotlib.
