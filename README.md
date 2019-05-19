@@ -14,4 +14,5 @@ Sorting/
 cv2/
 and matplotlib.
 
-AUTHOR
+# Author
+Christopher S. Coram
