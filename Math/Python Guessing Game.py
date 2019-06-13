@@ -83,8 +83,14 @@ class Choices():
 
 object_choices = Choices()
 
-
+# Player Inputs
 def Game():
-	e = input()
-	f = input()
-	print("Please choose the following levels:")
+	e = object_choices.ChoiceOne()
+	f = object_choices.ChoiceTwo()
+	level_one = e
+	level_two = f
+	choice1 = input(level_one)
+	choice2 = input(level_two)
+	print("Please choose the following levels: level_one or level_two")
+	if choice1 == level_one:
+		print(level_one)
