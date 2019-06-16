@@ -63,7 +63,7 @@ object_y = Classification()
 # End Section Two
 """ Section Three / Neural Network"""
 class NN():
-    def __init__(self, x, y):
+ def __init__(self, x, y):
          # seeding for random number generation
          np.random.seed(1)
          # converting weights to a 3 by 1 matrix with values from -1 to 1 and mean of 0
