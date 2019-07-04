@@ -7,7 +7,7 @@ All Pyhton side projects / 2019: The following include cv2 snippets, quick games
 # Testing / Deployment
 Open all downnloaded scripts into a Python IDE such as IDLE or PyCharm. Then run code in console.
 
-# Projects Built With...
+# Projects Developed With...
 Python libraries such as the following:
 * Numpy
 * Pygorithm
