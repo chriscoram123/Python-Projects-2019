@@ -6,6 +6,7 @@ import numpy as np
 # Variables 
 cap = cv2.VideoCapture(0)
 
+
 # While true, imshow will stay open in loop creating constant frame operation
 while(True):
    # Capture frame-by-frame
